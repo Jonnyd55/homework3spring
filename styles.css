@@ -1,0 +1,109 @@
+body{
+	font-family: Arial;
+	margin: 0px;
+}
+
+img{
+	width: 150px;
+	float: left;
+	margin-right: 10px;
+}
+
+p{
+	margin: 5px;
+	font-size: 13px;
+}
+
+h1{
+	margin: 5px 0px;
+}
+
+h5{
+	font-weight: normal;
+}
+
+a{
+	text-decoration: none;
+	color: #a90707;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+.movie{
+	background-color: #e8e8e8;
+	padding: 5px;
+	border-radius: 4px;
+	margin: 10px 2px;
+	height: 250px;
+	border: 1px solid #c5c5c5;
+}
+
+.movie h5{
+	font-size: 16px;
+	font-family: "Times New Roman";
+	margin-bottom: 4px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#winner{
+	background-image: url(images/oscar.png);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	background-size: 100px;
+	background-color: #e1c4e6;
+}
+
+#header{
+	text-align: center;
+}
+
+.footer{
+	background-color: black;
+}
+
+.footer p{
+	color: white;
+	margin-bottom: 0px;
+	padding: 10px 2px 25px;
+	text-align: center;
+}
+
+span#footnote{
+	color: red;
+}
+
+table{
+	width: 100%;
+	margin: 10px 10px;
+	border-collapse: collapse;
+
+}
+
+table tbody tr:last-child{
+	background-color: #e1c4e6;
+}
+
+thead{
+	background-color: silver;
+	color: white;
+}
+
+th{
+	border: 1px solid black;
+	padding: 0px;
+}
+
+tr{
+	border: 1px solid gray;
+}
+
+td{
+	border: 1px solid gray;
+	text-align: center;
+}
+
+
+	
